@@ -1,4 +1,4 @@
-# Kubr-QR
+# Kube-QR
 
 A full-stack QR Code Generator application that allows users to generate QR codes from URLs. The generated QR codes are stored in AWS S3 and can be accessed via public URLs.
 
